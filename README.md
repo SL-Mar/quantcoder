@@ -3,7 +3,7 @@
 > **  This project is no longer maintained. QuantConnect now offers native code
    generation through their AI assistant, MIA. For extracting ideas from        
   quantitative research papers, tools like Elicit or Perplexity can be used in  
-  combination with MIA to build a more efficient research-to-algorithm pipeline.
+  combination with MIA to build a more efficient research-to-algorithm pipeline. **
 
 [![Version](https://img.shields.io/badge/version-2.0.0-green)](https://github.com/SL-Mar/quantcoder-cli)
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://python.org)
